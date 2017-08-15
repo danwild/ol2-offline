@@ -1,0 +1,24 @@
+{
+  "name": "ol2-offline",
+  "version": "0.0.1",
+  "description": "A simple example of using OpenLayers V2 with no network connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwild/ol2-offline.git"
+  },
+  "keywords": [
+    "openlayers",
+    "offline",
+    "tiles"
+  ],
+  "author": "danwild@y7mail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danwild/ol2-offline/issues"
+  },
+  "homepage": "https://github.com/danwild/ol2-offline#readme"
+}
